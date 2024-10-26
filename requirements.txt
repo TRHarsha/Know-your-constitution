@@ -4,4 +4,5 @@ sentence-transformers
 scikit-learn
 numpy
 pypika
-pysqlite3
+pysqlite3-binary
+
