@@ -3,6 +3,3 @@ pandas
 sentence-transformers
 scikit-learn
 numpy
-pypika
-pysqlite3-binary
-
